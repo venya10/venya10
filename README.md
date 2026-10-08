@@ -1,9 +1,8 @@
 <!-- Banner -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="venya10's GitHub profile" src="dark_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode_animated.svg">
+  <img src="light_mode_animated.svg" alt="ASCII portrait and GitHub stats for venya10" width="100%">
 </picture>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=640&height=60&lines=Hi+there!+%F0%9F%91%8B+I'm+Venya;Building+AI+agents+%26+RAG+systems;ML+models+that+ship%2C+not+just+score;Measured%2C+not+guessed+%F0%9F%93%8F" alt="Typing intro" />
