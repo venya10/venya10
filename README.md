@@ -85,4 +85,14 @@
   </picture>
 </div>
 
+## 👾 Pac-Man Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venya10/venya10/pacman/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venya10/venya10/pacman/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/venya10/venya10/pacman/pacman-contribution-graph.svg" />
+  </picture>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=100&section=footer" width="100%" alt="footer" />
