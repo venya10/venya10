@@ -45,6 +45,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venya10/venya10/pacman/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venya10/venya10/pacman/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/venya10/venya10/pacman/pacman-contribution-graph.svg" alt="Pac-Man eating my contribution graph" width="70%">
+    <img src="https://raw.githubusercontent.com/venya10/venya10/pacman/pacman-contribution-graph.svg" alt="Pac-Man eating my contribution graph" width="80%">
   </picture>
 </p>
