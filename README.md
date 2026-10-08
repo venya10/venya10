@@ -12,12 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=venya10&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
 </p>
 
-### I build AI and data systems end to end — from scraping the data, to evaluating the model honestly, to shipping something people can actually use.
 
-- 🤖 Currently into **multi-agent LLM workflows, RAG, and evaluation**
-- 🔬 I care about **measuring things properly** — held-out evals, confidence intervals, and saying so when a result is modest
-- 🛠️ Recently shipped a **Chrome extension + FastAPI backend** that predicts your next n8n node from 494 real workflows
-- 💬 Ask me about **LangGraph, retrieval pipelines, or turning messy data into dashboards** — or open an issue [here](https://github.com/venya10/venya10/issues)
 
 <div align="center">
   <a href="https://github.com/venya10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -29,18 +24,6 @@
 
 <hr>
 
-## 🚀 Featured Projects
-
-| Project | What it does | Built with |
-|---|---|---|
-| **[n8n Copilot](https://github.com/venya10/n8n)** | Chrome extension that suggests the next node while you build an n8n workflow, ranked from 494 real templates. **70.1% Recall@10** on 1,547 held-out edges. Live backend on Render, CI on every push. | FastAPI · sentence-transformers · Chrome MV3 · Docker · GitHub Actions |
-| **[Agentic Research Assistant](https://github.com/venya10/agentic_research_assistant)** | Five-agent pipeline (Planner → Research → Evidence → Critic → Writer) that answers research questions from your documents and produces cited, claim-verified reports. | LangGraph · Chroma · Streamlit · Claude / OpenAI / Groq |
-| **[Samsung MENA Marketing Intelligence](https://github.com/venya10/Samsung_casestudy)** | Weekly marketing intelligence system: data model, cross-market benchmarking, early-warning rules engine, an 8-page dashboard, and an AI assistant that answers by querying the data. [Live demo ↗](https://samsung-marketing-dashboard.onrender.com/) | Python · DuckDB · Gemini · hand-rolled SVG charts |
-| **[AQI Prediction](https://github.com/venya10/AQI-Prediction)** | Forecasting Air Quality Index across Indian cities (29K daily records). ANFIS fuzzy model reached **R² 0.938**, Random Forest **R² 0.925**. | scikit-learn · MATLAB ANFIS · pandas |
-| **[Speech-to-Text Summarizer](https://github.com/venya10/Speech-to-Text-Summarizer)** | Upload audio → transcribe with Whisper → summarize with BART → chat with the content via Llama 3.3 70B. | Whisper · Hugging Face · Groq · Streamlit |
-| **[LeetCode](https://github.com/venya10/Leetcode)** | My problem-solving practice log. | Python |
-
-<hr>
 
 ## 🛠️ Languages & Tools
 
@@ -67,26 +50,6 @@
 
 <hr>
 
-## ⚡ GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=venya10&show_icons=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&hide_border=false&border_radius=10&count_private=true&rank_icon=github" alt="Venya's GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=venya10&theme=transparent&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&border_radius=10" alt="Venya's GitHub streak" />
-  <br>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venya10&layout=donut&langs_count=6&theme=transparent&title_color=7c3aed&border_radius=10" alt="Venya's top languages" />
-</div>
-
-<hr>
-
-## 🐍 Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venya10/venya10/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venya10/venya10/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/venya10/venya10/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 ## 👾 Pac-Man Contributions
 
